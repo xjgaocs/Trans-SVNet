@@ -1,4 +1,4 @@
-#some codes adapted from https://github.com/YuemingJin/MTRCNet-CL
+#some code adapted from https://github.com/YuemingJin/MTRCNet-CL
 # and https://github.com/YuemingJin/TMRNet
 
 import torch
