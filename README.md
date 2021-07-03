@@ -1,10 +1,8 @@
-# RLSR
+# Trans-SVNet
 
-Use PyBullet (https://github.com/bulletphysics/bullet3) api.
+1. run train_embedding.py to train ResNet50
+2. run generate_LFB.py to generate spatial embeddings
+3. run tecno.py to train TCN
+4. run trans_SV.py to train Transformer
 
-## Quick Start
-Install PyBullet: 
-```pip install pybullet --upgrade --user```
 
-Install RLSR:
-```pip install -e .```
