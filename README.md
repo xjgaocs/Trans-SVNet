@@ -1,4 +1,4 @@
-# Trans-SVNet
+# Trans-SVNet: Accurate Phase Recognition from Surgical Videos via Hybrid Embedding Aggregation Transformer
 
 1. run train_embedding.py to train ResNet50
 2. run generate_LFB.py to generate spatial embeddings
