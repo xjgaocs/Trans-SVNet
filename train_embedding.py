@@ -1,3 +1,6 @@
+#some codes adapted from https://github.com/YuemingJin/MTRCNet-CL
+# and https://github.com/YuemingJin/TMRNet
+
 import torch
 import torch.nn as nn
 import torch.optim as optim
