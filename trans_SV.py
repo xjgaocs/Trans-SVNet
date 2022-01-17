@@ -309,7 +309,7 @@ for epoch in range(max_epochs):
                 print('Val progress: %s [%d/%d]' % (str(percent) + '%', val_progress * batch_size, len(val_we_use_start_idx_80)),
                       end='\r')
 
-
+    #evaluation only for training reference
     val_elapsed_time = time.time() - val_start_time
     val_accuracy_phase = float(val_corrects_phase) / len(val_labels_80)
     val_acc_video = np.mean(val_acc_each_video)
