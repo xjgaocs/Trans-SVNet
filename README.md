@@ -7,6 +7,7 @@ You can refer to https://github.com/YuemingJin/TMRNet for data pre-processing.
 3. run tecno.py to train TCN
 4. run trans_SV.py to train Transformer
 
-Note: although TCN is trained using the whole video, no more future information is considered for each mini-batch. Please refer to TeCNO paper for details.
+Note: although TCN is trained using the whole video, no more future information is considered for each mini-batch. Please refer to the TeCNO paper for details.
 
+https://arxiv.org/abs/2003.10751
 
