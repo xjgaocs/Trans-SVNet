@@ -11,3 +11,4 @@ Note: although TCN is trained using the whole video, no future information is us
 
 https://arxiv.org/abs/2003.10751
 
+We used additional Matlab code to produce the finally reported results based on the saved predicted phases of each time step. The evaluation code is in https://github.com/YuemingJin/TMRNet.
